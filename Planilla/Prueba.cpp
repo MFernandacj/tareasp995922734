@@ -8,10 +8,7 @@ using namespace std;
 void menuSistemaNomina();
 void menuDepartamentos();
 void menuDatos ();
-void menuIngresoDatos ();
-void menuNominas();
-void menuManual ();
-void menuHistorial ();
+void menuSecciones ();
 
 // Funciones del submenú Departamentos
 void depArea();
@@ -21,8 +18,6 @@ void depLogistica();
 void depRecursos ();
 
 // Funciones del submenú Datos
-void ingresoDatos();
-void impresionNomina();
 void busquedadDatos();
 void modificacionDatos();
 void borrarDatos ();
@@ -49,10 +44,10 @@ void menuSistemaNomina()
 
         cout << "\n\n\t\t\tSISTEMA DE NOMINA" << endl;
         cout << "\t\t\t--------------" << endl;
-        cout << "\n\t1. Departamentos" << endl;
-        cout << "\t2. Nominas" << endl;
-        cout << "\t3. Manual" << endl;
-        cout << "\t4. Historial" << endl;
+        cout << "\n\t1. Ingreso de Datos" << endl;
+        cout << "\t2. Busquedad de Datos" << endl;
+        cout << "\t3. Modificacion de Datos" << endl;
+        cout << "\t4. Borrar Datos" << endl;
         cout << "\t0. SALIR" << endl;
 
         cout << "\n\tIngrese una opcion: ";
@@ -61,19 +56,19 @@ void menuSistemaNomina()
         switch (opcion)
         {
         case 1:
-            menuDepartamentos();
+            menuDatos();
             break;
 
         case 2:
-            menuNominas();
+            menuSecciones ();
             break;
 
         case 3:
-            menuManual();
+            menuSecciones ();
             break;
 
         case 4:
-            menuHistorial();
+            system("pause>nul");
             break;
 
         case 0:
@@ -84,6 +79,91 @@ void menuSistemaNomina()
 }
 
 // Definiciones de las funciones
+
+void menuDatos()
+{
+    int opcion;
+    bool repetir = true;
+
+    do
+    {
+        system("cls");
+
+        cout << "\n\n\t\t\tTIPOS DE DATOS" << endl;
+        cout << "\t\t\t------------------------" << endl;
+        cout << "\n\t1. Datos de Usuario" << endl;
+        cout << "\t2. Datos de Salario" << endl;
+        cout << "\t3. Descuentos Varios" << endl;
+        cout << "\t4. Validacion" << endl;
+        cout << "\t0. REGRESAR" << endl;
+
+        cout << "\n\tIngrese una opcion: ";
+        cin >> opcion;
+
+        switch (opcion)
+        {
+        case 1:
+            system("pause>nul");
+            break;
+
+        case 2:
+            menuDepartamentos ();
+            break;
+
+        case 3:
+            system("pause>nul");
+            break;
+
+        case 4:
+           system("pause>nul");
+            break;
+
+        case 5:
+           system("pause>nul");
+            break;
+
+        case 0:
+            repetir = false;
+            break;
+        }
+    } while (repetir);
+}
+
+void menuSecciones()
+{
+    int opcion;
+    bool repetir = true;
+
+    do
+    {
+        system("cls");
+
+        cout << "\n\n\t\t\tSECCIONES" << endl;
+        cout << "\t\t\t------------------------" << endl;
+        cout << "\n\t1. Empleados" << endl;
+        cout << "\t2. Departamentos" << endl;
+        cout << "\t0. REGRESAR" << endl;
+
+        cout << "\n\tIngrese una opcion: ";
+        cin >> opcion;
+
+        switch (opcion)
+        {
+        case 1:
+            system("pause>nul");
+            break;
+
+        case 2:
+            menuDepartamentos ();
+            break;
+
+        case 0:
+            repetir = false;
+            break;
+        }
+    } while (repetir);
+}
+
 
 void menuDepartamentos()
 {
@@ -98,7 +178,7 @@ void menuDepartamentos()
         cout << "\t\t\t------------------------" << endl;
         cout << "\n\t1. Area de Ventas" << endl;
         cout << "\t2. Produccion" << endl;
-        cout << "\t3. Financiero" << endl;
+        cout << "\t3. Finciero" << endl;
         cout << "\t4. Logistica" << endl;
         cout << "\t5. Recursos Humanos" << endl;
         cout << "\t0. REGRESAR" << endl;
@@ -109,11 +189,11 @@ void menuDepartamentos()
         switch (opcion)
         {
         case 1:
-            depArea();
+            depArea ();
             break;
 
         case 2:
-            depProduccion();
+            depProduccion ();
             break;
 
         case 3:
@@ -125,7 +205,7 @@ void menuDepartamentos()
             break;
 
         case 5:
-            depRecursos();
+           depRecursos();
             break;
 
         case 0:
@@ -135,7 +215,7 @@ void menuDepartamentos()
     } while (repetir);
 }
 
-void menuDatos()
+void depArea()
 {
     int opcion;
     bool repetir = true;
@@ -144,13 +224,13 @@ void menuDatos()
     {
         system("cls");
 
-        cout << "\n\n\t\t\tDATOS" << endl;
-        cout << "\t\t\t-------------------------" << endl;
-        cout << "\n\t1. Ingreso de datos" << endl;
-        cout << "\t2. Impresion de Nomina" << endl;
-        cout << "\t3. Busquedad de Datos" << endl;
-        cout << "\t4. Modificacion de Datos" << endl;
-        cout << "\t5. Borrar Datos" << endl;
+        cout << "\n\n\t\t\t AREA DE VENTAS" << endl;
+        cout << "\t\t\t------------------------" << endl;
+        cout << "\n\t1. Planilla General" << endl;
+        cout << "\t2. Gerente de ventas" << endl;
+        cout << "\t3. Asistente de ventas" << endl;
+        cout << "\t4. Supervisor de ventas" << endl;
+        cout << "\t5. Vendedor" << endl;
         cout << "\t0. REGRESAR" << endl;
 
         cout << "\n\tIngrese una opcion: ";
@@ -159,23 +239,23 @@ void menuDatos()
         switch (opcion)
         {
         case 1:
-            ingresoDatos();
+             system("pause>nul");
             break;
 
         case 2:
-            impresionNomina();
+             system("pause>nul");
             break;
 
         case 3:
-            busquedadDatos();
+             system("pause>nul");
             break;
 
         case 4:
-            modificacionDatos();
+             system("pause>nul");
             break;
 
         case 5:
-            borrarDatos();
+            system("pause>nul");
             break;
 
         case 0:
@@ -185,7 +265,7 @@ void menuDatos()
     } while (repetir);
 }
 
-void menuIngresoDatos ()
+void depProduccion()
 {
     int opcion;
     bool repetir = true;
@@ -194,11 +274,13 @@ void menuIngresoDatos ()
     {
         system("cls");
 
-        cout << "\n\n\t\t\tINGRESO DE DATOS" << endl;
-        cout << "\t\t\t-------------------------" << endl;
-        cout << "\n\t1. Datos de Usuario" << endl;
-        cout << "\t2. Datos de Salario" << endl;
-        cout << "\t3. Descuentos Varios" << endl;
+        cout << "\n\n\t\t\t AREA DE PRODUCCION" << endl;
+        cout << "\t\t\t------------------------" << endl;
+        cout << "\n\t1. Planilla General" << endl;
+        cout << "\t2. Gerente de produccion" << endl;
+        cout << "\t3. Asistente de produccion" << endl;
+        cout << "\t4. Supervisor de produccion" << endl;
+        cout << "\t5. Operador" << endl;
         cout << "\t0. REGRESAR" << endl;
 
         cout << "\n\tIngrese una opcion: ";
@@ -207,15 +289,23 @@ void menuIngresoDatos ()
         switch (opcion)
         {
         case 1:
-            datosUsuario();
+             system("pause>nul");
             break;
 
         case 2:
-            datosSalario();
+             system("pause>nul");
             break;
 
         case 3:
-            datosDescuentos();
+             system("pause>nul");
+            break;
+
+        case 4:
+             system("pause>nul");
+            break;
+
+        case 5:
+            system("pause>nul");
             break;
 
         case 0:
@@ -223,8 +313,137 @@ void menuIngresoDatos ()
             break;
         }
     } while (repetir);
-    return 0;
 }
+
+void depFinanciero()
+{
+    int opcion;
+    bool repetir = true;
+
+    do
+    {
+        system("cls");
+
+        cout << "\n\n\t\t\t AREA FINANCIERA" << endl;
+        cout << "\t\t\t------------------------" << endl;
+        cout << "\n\t1. Planilla General" << endl;
+        cout << "\t2. Gerente financiero" << endl;
+        cout << "\t3. Asistente financiero" << endl;
+        cout << "\t0. REGRESAR" << endl;
+
+        cout << "\n\tIngrese una opcion: ";
+        cin >> opcion;
+
+        switch (opcion)
+        {
+        case 1:
+             system("pause>nul");
+            break;
+
+        case 2:
+             system("pause>nul");
+            break;
+
+        case 3:
+             system("pause>nul");
+            break;
+
+        case 0:
+            repetir = false;
+            break;
+        }
+    } while (repetir);
+}
+
+void depLogistica()
+{
+    int opcion;
+    bool repetir = true;
+
+    do
+    {
+        system("cls");
+
+        cout << "\n\n\t\t\t AREA DE LOGISTICA" << endl;
+        cout << "\t\t\t------------------------" << endl;
+        cout << "\n\t1. Planilla General" << endl;
+        cout << "\t2. Gerente de logistica" << endl;
+        cout << "\t3. Asistente de logistica" << endl;
+        cout << "\t4. Supervisor de logistica" << endl;
+        cout << "\t5. Bodeguero" << endl;
+        cout << "\t0. REGRESAR" << endl;
+        cout << "\n\tIngrese una opcion: ";
+        cin >> opcion;
+
+        switch (opcion)
+        {
+        case 1:
+             system("pause>nul");
+            break;
+
+        case 2:
+             system("pause>nul");
+            break;
+
+        case 3:
+             system("pause>nul");
+            break;
+
+        case 4:
+             system("pause>nul");
+            break;
+
+        case 5:
+            system("pause>nul");
+            break;
+
+        case 0:
+            repetir = false;
+            break;
+        }
+    } while (repetir);
+}
+
+
+ void depRecursos()
+{
+    int opcion;
+    bool repetir = true;
+
+    do
+    {
+        system("cls");
+
+        cout << "\n\n\t\t\t RECURSOS HUMANOS" << endl;
+        cout << "\t\t\t------------------------" << endl;
+        cout << "\n\t1. Planilla General" << endl;
+        cout << "\t2. Gerente de recursos humanos" << endl;
+        cout << "\t3. Asistente de recursos humanos" << endl;
+        cout << "\n\tIngrese una opcion: ";
+        cin >> opcion;
+
+        switch (opcion)
+        {
+        case 1:
+             system("pause>nul");
+            break;
+
+        case 2:
+             system("pause>nul");
+            break;
+
+        case 3:
+             system("pause>nul");
+            break;
+
+        case 0:
+            repetir = false;
+            break;
+        }
+    } while (repetir);
+}
+
+
 
 
 

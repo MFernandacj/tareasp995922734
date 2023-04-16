@@ -91,10 +91,3 @@ int main()
         cout << "\n\n\tBienvenido al sistema" << endl;
         system("pause");
 
-
-
-
-    cin.get();
-
-    return 0;
-}
