@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1681925740 source:c:\users\mafer\onedrive - universidad mariano gálvez\escritorio\universidad\tercerciclo\progra1\tareasp995922734\tareasp995922734\prototipo2pp12023\prototipo2pp12023\main.cpp
+	<iostream>
+	"Menus995922734.h"
+	"RamaCRUD_CatalogoX.995922734.h"
+
+1681926149 c:\users\mafer\onedrive - universidad mariano gálvez\escritorio\universidad\tercerciclo\progra1\tareasp995922734\tareasp995922734\prototipo2pp12023\prototipo2pp12023\include\menus995922734.h
+	<iostream>
+	<cstdlib>
+
+1681924093 source:c:\users\mafer\onedrive - universidad mariano gálvez\escritorio\universidad\tercerciclo\progra1\tareasp995922734\tareasp995922734\prototipo2pp12023\prototipo2pp12023\src\menus995922734.cpp
+	"Menus995922734.h"
+	<string>
+	<conio.h>
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<vector>
+
+1681925701 c:\users\mafer\onedrive - universidad mariano gálvez\escritorio\universidad\tercerciclo\progra1\tareasp995922734\tareasp995922734\prototipo2pp12023\prototipo2pp12023\include\ramacrud_catalogox.995922734.h
+	<iostream>
+	<cstdlib>
+
