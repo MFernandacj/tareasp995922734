@@ -1,0 +1,444 @@
+# depslib dependency file v1.0
+1684767167 source:c:\users\kenph\dropbox\mi pc (laptop-kh5s24mu)\documents\c++\tareasp19959-22-6326\proyecto_planillas\src\menus.cpp
+	"Menus.h"
+
+1684767197 c:\users\kenph\dropbox\mi pc (laptop-kh5s24mu)\documents\c++\tareasp19959-22-6326\proyecto_planillas\include\menus.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"EmpleadosPlanilla.h"
+	"Departamento.h"
+	"Puestos.h"
+	"Bitacora.h"
+
+1684280856 source:c:\users\kenph\dropbox\mi pc (laptop-kh5s24mu)\documents\c++\tareasp19959-22-6326\proyecto_planillas\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"Menus.h"
+	"UsuarioPlanilla.h"
+
+1684275131 source:c:\users\kenph\dropbox\mi pc (laptop-kh5s24mu)\documents\c++\tareasp19959-22-6326\proyecto_planillas\src\usuarioplanilla.cpp
+	"UsuarioPlanilla.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684283405 c:\users\kenph\dropbox\mi pc (laptop-kh5s24mu)\documents\c++\tareasp19959-22-6326\proyecto_planillas\include\usuarioplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1684283405 c:\users\kenph\dropbox\mi pc (laptop-kh5s24mu)\documents\c++\tareasp19959-22-6326\proyecto_planillas\include\empleadosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+	"Bitacora.h"
+
+1684281197 source:c:\users\kenph\dropbox\mi pc (laptop-kh5s24mu)\documents\c++\tareasp19959-22-6326\proyecto_planillas\src\empleadosplanilla.cpp
+	"EmpleadosPlanilla.h"
+
+1684727210 c:\users\kenph\dropbox\mi pc (laptop-kh5s24mu)\documents\c++\tareasp19959-22-6326\proyecto_planillas\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<chrono>
+
+1684768811 source:c:\users\kenph\dropbox\mi pc (laptop-kh5s24mu)\documents\c++\tareasp19959-22-6326\proyecto_planillas\src\bitacora.cpp
+	"Bitacora.h"
+
+1684725302 c:\users\kenph\dropbox\mi pc (laptop-kh5s24mu)\documents\c++\tareasp19959-22-6326\proyecto_planillas\include\departamento.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1684725302 source:c:\users\kenph\dropbox\mi pc (laptop-kh5s24mu)\documents\c++\tareasp19959-22-6326\proyecto_planillas\src\departamento.cpp
+	"Departamento.h"
+
+1684767099 c:\users\kenph\dropbox\mi pc (laptop-kh5s24mu)\documents\c++\tareasp19959-22-6326\proyecto_planillas\include\puestos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+	"Bitacora.h"
+
+1684768667 source:c:\users\kenph\dropbox\mi pc (laptop-kh5s24mu)\documents\c++\tareasp19959-22-6326\proyecto_planillas\src\puestos.cpp
+	"Puestos.h"
+
+1684769471 source:c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"Menus.h"
+	"UsuarioPlanilla.h"
+
+1685313128 c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\include\menus.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"EmpleadosPlanilla.h"
+	"Departamento.h"
+	"Puestos.h"
+	"Bitacora.h"
+	"Descuentos.h"
+
+1684769471 c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\include\empleadosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+	"Bitacora.h"
+
+1684769471 c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<chrono>
+
+1684769471 c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\include\departamento.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1684769471 c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\include\puestos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+	"Bitacora.h"
+
+1684769471 c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\include\usuarioplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1684769471 source:c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\src\bitacora.cpp
+	"Bitacora.h"
+
+1684769471 source:c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\src\departamento.cpp
+	"Departamento.h"
+
+1684769471 source:c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\src\empleadosplanilla.cpp
+	"EmpleadosPlanilla.h"
+
+1685326826 source:c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\src\menus.cpp
+	"Menus.h"
+
+1684769471 source:c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\src\puestos.cpp
+	"Puestos.h"
+
+1684769471 source:c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\src\usuarioplanilla.cpp
+	"UsuarioPlanilla.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1685327425 c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\include\descuentos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+	"Bitacora.h"
+
+1685316109 source:c:\users\mafer\downloads\tareasp19959-22-6326-main\proyecto_planillas\src\descuentos.cpp
+	"Descuentos.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684769471 source:c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"Menus.h"
+	"UsuarioPlanilla.h"
+
+1685313128 c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\include\menus.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"EmpleadosPlanilla.h"
+	"Departamento.h"
+	"Puestos.h"
+	"Bitacora.h"
+	"Descuentos.h"
+
+1684769471 c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\include\empleadosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+	"Bitacora.h"
+
+1684769471 c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<chrono>
+
+1684769471 c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\include\departamento.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1684769471 c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\include\puestos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+	"Bitacora.h"
+
+1685332132 c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\include\descuentos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+	"Bitacora.h"
+
+1684769471 c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\include\usuarioplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1684769471 source:c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\src\bitacora.cpp
+	"Bitacora.h"
+
+1684769471 source:c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\src\departamento.cpp
+	"Departamento.h"
+
+1685334179 source:c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\src\descuentos.cpp
+	"Descuentos.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684769471 source:c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\src\empleadosplanilla.cpp
+	"EmpleadosPlanilla.h"
+
+1685333959 source:c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\src\menus.cpp
+	"Menus.h"
+
+1684769471 source:c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\src\puestos.cpp
+	"Puestos.h"
+
+1684769471 source:c:\users\dekar\downloads\proyecto_planillas\proyecto_planillas\src\usuarioplanilla.cpp
+	"UsuarioPlanilla.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1684769471 source:c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"Menus.h"
+	"UsuarioPlanilla.h"
+
+1685417541 c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\include\menus.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"EmpleadosPlanilla.h"
+	"Departamento.h"
+	"Puestos.h"
+	"Bitacora.h"
+	"Descuentos.h"
+	"Porcentajes.h"
+
+1684769471 c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\include\empleadosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+	"Bitacora.h"
+
+1684769471 c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<chrono>
+
+1684769471 c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\include\departamento.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1684769471 c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\include\puestos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+	"Bitacora.h"
+
+1685419153 c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\include\descuentos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+	"Bitacora.h"
+
+1684769471 c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\include\usuarioplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+
+1684769471 source:c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\src\bitacora.cpp
+	"Bitacora.h"
+
+1684769471 source:c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\src\departamento.cpp
+	"Departamento.h"
+
+1684769471 source:c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\src\empleadosplanilla.cpp
+	"EmpleadosPlanilla.h"
+
+1685417532 source:c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\src\menus.cpp
+	"Menus.h"
+
+1684769471 source:c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\src\puestos.cpp
+	"Puestos.h"
+
+1684769471 source:c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\src\usuarioplanilla.cpp
+	"UsuarioPlanilla.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1685418041 source:c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\src\descuentos.cpp
+	"Descuentos.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Puestos.h"
+	"Porcentajes.h"
+
+1685418875 source:c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\src\porcentajes.cpp
+	"Porcentajes.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Puestos.h"
+
+1685417060 c:\users\mafer\downloads\proyecto_planillas\proyecto_planillas\include\porcentajes.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+	"Bitacora.h"
+

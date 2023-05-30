@@ -1,0 +1,7 @@
+1              Supervisor     Kenph          Ingeniero      0.0483         0              0              273.333        34.1667        51.25          250            
+1              Supervisor     Kenph          Ingeniero      8200           0.0483         0              0              273.333        34.1667        51.25          250            
+1              Supervisor     Kenph          Ingeniero      8200           0.0483         0              0              273.333        34.1667        51.25          250            
+1              Supervisor     Kenph          Ingeniero      8200           0.0483         0              0              273.333        34.1667        51.25          250            
+1              Supervisor     Kenph          Ingeniero      8200           0.0483         0              0              273.333        34.1667        51.25          250            
+1              Supervisor     Kenph          Ingeniero      8200           0.0483         0.05           0.02           273.333        34.1667        51.25          250            
+1              Supervisor     Kenph          Ingeniero      8200           0.0483         0.05           0.02           273.333        34.1667        51.25          250            
