@@ -1,0 +1,106 @@
+
+
+Mafer          7010           NLOG           Wed Jun 07 10:11:53 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 10:12:08 2023
+
+Mafer          7100           ING            Wed Jun 07 10:12:18 2023
+
+Mafer          7200           ING            Wed Jun 07 10:12:46 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 10:22:51 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 10:45:41 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 10:46:35 2023
+
+Mafer          7300           ING            Wed Jun 07 10:47:40 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 11:06:36 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 11:11:50 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 11:13:34 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 11:18:48 2023
+
+Mafer          7310           SRC            Wed Jun 07 11:18:53 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 11:20:03 2023
+
+Mafer          7310           SRC            Wed Jun 07 11:20:08 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 11:27:15 2023
+
+Mafer          7310           SRC            Wed Jun 07 11:27:19 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 11:40:36 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 11:41:28 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 11:46:27 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 12:01:17 2023
+
+Mafer          7100           ING            Wed Jun 07 12:01:34 2023
+
+Mafer          7140           IMP            Wed Jun 07 12:02:00 2023
+
+Mafer          7120           MOD            Wed Jun 07 12:02:09 2023
+
+Mafer          7140           IMP            Wed Jun 07 12:02:32 2023
+
+Mafer          7200           ING            Wed Jun 07 12:02:51 2023
+
+Mafer          7210           SRC            Wed Jun 07 12:03:17 2023
+
+Mafer          7300           ING            Wed Jun 07 12:03:33 2023
+
+Mafer          7340           IMP            Wed Jun 07 12:04:00 2023
+
+Mafer          7330           DEL            Wed Jun 07 12:04:09 2023
+
+Mafer          7330           DEL            Wed Jun 07 12:04:23 2023
+
+Mafer          7310           SRC            Wed Jun 07 12:04:38 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 12:06:25 2023
+
+Mafer          7310           SRC            Wed Jun 07 12:06:28 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 12:07:56 2023
+
+Mafer          7100           ING            Wed Jun 07 12:08:04 2023
+
+Mafer          7140           IMP            Wed Jun 07 12:08:35 2023
+
+Mafer          7200           ING            Wed Jun 07 12:08:46 2023
+
+Mafer          7230           DEL            Wed Jun 07 12:09:13 2023
+
+Mafer          7240           IMP            Wed Jun 07 12:09:19 2023
+
+Mafer          7220           MOD            Wed Jun 07 12:09:27 2023
+
+Mafer          7240           IMP            Wed Jun 07 12:09:51 2023
+
+Mafer          7300           ING            Wed Jun 07 12:10:03 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 12:10:43 2023
+
+Mafer          7340           IMP            Wed Jun 07 12:10:52 2023
+
+Mafer          7310           SRC            Wed Jun 07 12:11:10 2023
+
+Mafer          7310           SRC            Wed Jun 07 12:11:24 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 12:11:44 2023
+
+Mafer          7340           IMP            Wed Jun 07 12:11:51 2023
+
+Mafer          7310           SRC            Wed Jun 07 12:12:04 2023
+
+Mafer          7010           NLOG           Wed Jun 07 12:12:29 2023
+
+Mafer          7000           LOGIN          Wed Jun 07 12:12:37 2023
+
